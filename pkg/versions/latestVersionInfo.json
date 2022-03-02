@@ -1,0 +1,268 @@
+{
+    "1.0.0": {
+            "Version": {
+                    "CrcVersion": "1.0.0",
+                    "GitSHA": "575079b",
+                    "OpenShiftVersion": "4.2.0"
+            }
+    },
+    "1.1.0": {
+            "Version": {
+                    "CrcVersion": "1.1.0",
+                    "GitSHA": "95966a9",
+                    "OpenShiftVersion": "4.2.2"
+            }
+    },
+    "1.10.0": {
+            "Version": {
+                    "CrcVersion": "1.10.0",
+                    "GitSHA": "9025021",
+                    "OpenShiftVersion": "4.4.3"
+            }
+    },
+    "1.11.0": {
+            "Version": {
+                    "CrcVersion": "1.11.0",
+                    "GitSHA": "883ca49",
+                    "OpenShiftVersion": "4.4.5"
+            }
+    },
+    "1.12.0": {
+            "Version": {
+                    "CrcVersion": "1.12.0",
+                    "GitSHA": "6710aff",
+                    "OpenShiftVersion": "4.4.8"
+            }
+    },
+    "1.13.0": {
+            "Version": {
+                    "CrcVersion": "1.13.0",
+                    "GitSHA": "8070bae",
+                    "OpenShiftVersion": "4.5.1"
+            }
+    },
+    "1.14.0": {
+            "Version": {
+                    "CrcVersion": "1.14.0",
+                    "GitSHA": "36ad776",
+                    "OpenShiftVersion": "4.5.4"
+            }
+    },
+    "1.15.0": {
+            "Version": {
+                    "CrcVersion": "1.15.0",
+                    "GitSHA": "e317bed",
+                    "OpenShiftVersion": "4.5.7"
+            }
+    },
+    "1.16.0": {
+            "Version": {
+                    "CrcVersion": "1.16.0",
+                    "GitSHA": "bf72d3a",
+                    "OpenShiftVersion": "4.5.9"
+            }
+    },
+    "1.17.0": {
+            "Version": {
+                    "CrcVersion": "1.17.0",
+                    "GitSHA": "99f5c87",
+                    "OpenShiftVersion": "4.5.14"
+            }
+    },
+    "1.18.0": {
+            "Version": {
+                    "CrcVersion": "1.18.0",
+                    "GitSHA": "bb304aa",
+                    "OpenShiftVersion": "4.6.1"
+            }
+    },
+    "1.19.0": {
+            "Version": {
+                    "CrcVersion": "1.19.0",
+                    "GitSHA": "94b0362",
+                    "OpenShiftVersion": "4.6.3"
+            }
+    },
+    "1.2.0": {
+            "Version": {
+                    "CrcVersion": "1.2.0",
+                    "GitSHA": "c2e3c0f",
+                    "OpenShiftVersion": "4.2.8"
+            }
+    },
+    "1.20.0": {
+            "Version": {
+                    "CrcVersion": "1.20.0",
+                    "GitSHA": "ef3f80d",
+                    "OpenShiftVersion": "4.6.6"
+            }
+    },
+    "1.21.0": {
+            "Version": {
+                    "CrcVersion": "1.21.0",
+                    "GitSHA": "68a4cdd7",
+                    "OpenShiftVersion": "4.6.9"
+            }
+    },
+    "1.22.0": {
+            "Version": {
+                    "CrcVersion": "1.22.0",
+                    "GitSHA": "6faff76f",
+                    "OpenShiftVersion": "4.6.15"
+            }
+    },
+    "1.23.1": {
+            "Version": {
+                    "CrcVersion": "1.23.1",
+                    "GitSHA": "be17b141",
+                    "OpenShiftVersion": "4.7.0"
+            }
+    },
+    "1.25.0": {
+            "Version": {
+                    "CrcVersion": "1.25.0",
+                    "GitSHA": "0e5748c8",
+                    "OpenShiftVersion": "4.7.5"
+            }
+    },
+    "1.26.0": {
+            "Version": {
+                    "CrcVersion": "1.26.0",
+                    "GitSHA": "31f06c09",
+                    "OpenShiftVersion": "4.7.8"
+            }
+    },
+    "1.27.0": {
+            "Version": {
+                    "CrcVersion": "1.27.0",
+                    "GitSHA": "3d6bc39d",
+                    "OpenShiftVersion": "4.7.11"
+            }
+    },
+    "1.28.0": {
+            "Version": {
+                    "CrcVersion": "1.28.0",
+                    "GitSHA": "08de64bd",
+                    "OpenShiftVersion": "4.7.13"
+            }
+    },
+    "1.29.1": {
+            "Version": {
+                    "CrcVersion": "1.29.1",
+                    "GitSHA": "bc5f4409",
+                    "OpenShiftVersion": "4.7.18"
+            }
+    },
+    "1.3.0": {
+            "Version": {
+                    "CrcVersion": "1.3.0",
+                    "GitSHA": "918756b",
+                    "OpenShiftVersion": "4.2.10"
+            }
+    },
+    "1.30.1": {
+            "Version": {
+                    "CrcVersion": "1.30.1",
+                    "GitSHA": "376cc3c1",
+                    "OpenShiftVersion": "4.8.2"
+            }
+    },
+    "1.31.2": {
+            "Version": {
+                    "CrcVersion": "1.31.2",
+                    "GitSHA": "19538dab",
+                    "OpenShiftVersion": "4.8.4"
+            }
+    },
+    "1.32.1": {
+            "Version": {
+                    "CrcVersion": "1.32.1",
+                    "GitSHA": "4d40571f",
+                    "OpenShiftVersion": "4.8.5"
+            }
+    },
+    "1.33.1": {
+            "Version": {
+                    "CrcVersion": "1.33.1",
+                    "GitSHA": "3cfaa10f",
+                    "OpenShiftVersion": "4.8.12"
+            }
+    },
+    "1.34.0": {
+            "Version": {
+                    "CrcVersion": "1.34.0",
+                    "GitSHA": "34c31851",
+                    "OpenShiftVersion": "4.9.0"
+            }
+    },
+    "1.35.0": {
+            "Version": {
+                    "CrcVersion": "1.35.0",
+                    "GitSHA": "751824a9",
+                    "OpenShiftVersion": "4.9.5"
+            }
+    },
+    "1.36.0": {
+            "Version": {
+                    "CrcVersion": "1.36.0",
+                    "GitSHA": "c0f4e0d3",
+                    "OpenShiftVersion": "4.9.8"
+            }
+    },
+    "1.37.0": {
+            "Version": {
+                    "CrcVersion": "1.37.0",
+                    "GitSHA": "3876d27d",
+                    "OpenShiftVersion": "4.9.10"
+            }
+    },
+    "1.4.0": {
+            "Version": {
+                    "CrcVersion": "1.4.0",
+                    "GitSHA": "d5bb3a3",
+                    "OpenShiftVersion": "4.2.13"
+            }
+    },
+    "1.5.0": {
+            "Version": {
+                    "CrcVersion": "1.5.0",
+                    "GitSHA": "e1c8fb8",
+                    "OpenShiftVersion": "4.2.14"
+            }
+    },
+    "1.6.0": {
+            "Version": {
+                    "CrcVersion": "1.6.0",
+                    "GitSHA": "8ef676f",
+                    "OpenShiftVersion": "4.3.0"
+            }
+    },
+    "1.7.0": {
+            "Version": {
+                    "CrcVersion": "1.7.0",
+                    "GitSHA": "fa7e558",
+                    "OpenShiftVersion": "4.3.1"
+            }
+    },
+    "1.8.0": {
+            "Version": {
+                    "CrcVersion": "1.8.0",
+                    "GitSHA": "0a318dc",
+                    "OpenShiftVersion": "4.3.8"
+            }
+    },
+    "1.9.0": {
+            "Version": {
+                    "CrcVersion": "1.9.0",
+                    "GitSHA": "a68b5e0",
+                    "OpenShiftVersion": "4.3.10"
+            }
+    },
+    "latest": {
+            "Version": {
+                    "CrcVersion": "1.37.0",
+                    "GitSHA": "3876d27d",
+                    "OpenShiftVersion": "4.9.10"
+            }
+    }
+}
